@@ -50,6 +50,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+###### this text added new in lab
 
 ### :keyboard: Activity: Edit your file with headers
 
